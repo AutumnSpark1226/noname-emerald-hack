@@ -2,7 +2,7 @@ gText_Birch_Welcome::
 	.string "Welcome to the world of POKéMON!\p"
 	.string "My name is AutumnSpark1226.\n"
 	.string "(I look exactly like BIRCH)\p"
-	.string "I created this hack\p"
+	.string "I am the person who created this hack.\p"
 	.string "$"
 
 gText_Birch_Pokemon::
@@ -32,11 +32,11 @@ gText_Birch_SoItsPlayer::
 
 gText_Birch_YourePlayer::
 	.string "Ah, okay!\p"
-	.string "You're {PLAYER}{KUN} who's moving to LITTLEROOT.\p"
+	.string "You're {PLAYER}{KUN} who's moving\n"
+	.string "to LITTLEROOT.\p"
 	.string "I get it now!\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
-	.string "Come see BIRCH in his POKéMON LAB.\p"
 	.string "Have fun!\p"
 	.string "$"
