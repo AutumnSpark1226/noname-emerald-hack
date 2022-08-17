@@ -320,7 +320,7 @@ Route103_Text_BrendanRoute103Pokemon:
 	.string "that one that live on ROUTE 103…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
+	.string "Hey, {PLAYER}!\p"
 	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
 	.string "Since we're here, how about a little\n"
 	.string "battle?\p"
