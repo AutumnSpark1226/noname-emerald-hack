@@ -30,4 +30,4 @@ gText_SaveError::
 
 gText_SavingDontTurnOffPower::
 	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "DON'T STOP THE EMULATOR.$"
