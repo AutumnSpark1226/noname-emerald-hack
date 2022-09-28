@@ -1,17 +1,17 @@
-# Pokémon Emerald
+# Noname Emerald Hack
 
-This is a decompilation of Pokémon Emerald.
+This is a hack of Pokémon Emerald. It is forked from https://github.com/pret/pokeemerald This project is still work in progress
 
 It builds the following ROM:
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+* **pokeemerald.gba** `checksum WIP`
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
 
 ## See also
 
-Other disassembly and/or decompilation projects:
+Other disassembly and/or decompilation projects by pret:
 * [**Pokémon Red and Blue**](https://github.com/pret/pokered)
 * [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld)
 * [**Pokémon Yellow**](https://github.com/pret/pokeyellow)
@@ -24,8 +24,3 @@ Other disassembly and/or decompilation projects:
 * [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
 * [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered)
 * [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
-
-
-## Contacts
-
-You can find us on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://web.libera.chat/?#pret).
